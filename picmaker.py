@@ -25,3 +25,4 @@ for i in range(size):
         file.write(f"{r} {g} {b} ")
     file.write('\n')
 file.close()
+print("IMAGE CREATED WITH NAME: image.png")
